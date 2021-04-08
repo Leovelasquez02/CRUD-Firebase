@@ -107,7 +107,8 @@ const getUserById = async (id) =>{
 const styles = StyleSheet.create({
 container:{
     flex: 1,
-    padding: 35
+    padding: 35,
+    color: 'red'
 },
 inputGroup: {
   flex:1,
