@@ -63,6 +63,7 @@ const CreateUserScreen = (props) => {
 
 const styles = StyleSheet.create({
   container: {
+    color: 'red',
     flex:1,
     padding:35
   },
